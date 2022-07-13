@@ -4,10 +4,11 @@ import Head from 'next/head'
 
 const Home: NextPage = () => {
   return (
-    <div className="container container-md">
+    <div className="mt-5 container container-md">
       <Head>
           <title>Pokemon Voting</title>
       </Head>      
+      <h1 className="text-lg">Pokemon Voting</h1>
     </div>
   )
 }

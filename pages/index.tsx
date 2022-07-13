@@ -8,7 +8,7 @@ const Home: NextPage = () => {
       <Head>
           <title>Pokemon Voting</title>
       </Head>      
-      <h1 className="text-xl">Pokemon Voting</h1>
+      <h1 className="text-2xl">Pokemon Voting</h1>
 
     </div>
   )

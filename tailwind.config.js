@@ -8,6 +8,9 @@ module.exports = {
     extend: {
       container: {
         center: true,
+        screens: {
+          sm: "640px",
+        },
       },
     },
   },
